@@ -1,0 +1,28 @@
+
+#bottom {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+body{
+    background-color: #A7D41C;
+}
+#um{
+    color: #17BB93;
+}
+p{
+    font-size: 20px;
+    color: white;
+}
+#head{
+    color: #26A507;
+}
+#head2{
+    color: #0051FF;
+}
+#head3{
+    color: #DBED1F;
+}
+#one{
+    color: black;
+}
