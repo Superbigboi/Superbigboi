@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Superbigboi
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+-  I’m currently a 13 year old
 - 📫 How to reach me: https://bit.ly/riskboi
 
 <!---
