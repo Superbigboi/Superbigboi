@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Superbigboi
 - 👀 I’m interested in gaming
--  I’m currently a 13 year old
+-  I’m currently a 14 year old
 - 📫 How to reach me: https://bit.ly/wdsadff
 
 <!---
